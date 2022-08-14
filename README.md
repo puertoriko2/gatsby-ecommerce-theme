@@ -1,4 +1,5 @@
 ![github-banner](https://user-images.githubusercontent.com/3611928/169144953-49223b21-1e00-4607-971a-4f870468a986.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpuertoriko2%2Fgatsby-ecommerce-theme.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpuertoriko2%2Fgatsby-ecommerce-theme?ref=badge_shield)
 
 This beautiful theme from the [Matter Design Team](https://matterdesign.com.au/) gives you the styling and scaffolding for your next e-commerce site. You can customize to your heart's content and add the tooling for cart, transactions, product, and more. This theme uses:
 
@@ -211,3 +212,7 @@ This project is intended to be extended by you! We wanted to make possible to re
 - [BigCommerce](https://bigcommerce.zfrcsk.net/c/2429593/854992/2941) for a headless e-commerce solution
 - [Builder](https://www.builder.io) as a CMS for the blog articles or other content creation
 - [Klaviyo](https://www.klaviyo.com/) for any email or SMS marketing automation
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpuertoriko2%2Fgatsby-ecommerce-theme.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpuertoriko2%2Fgatsby-ecommerce-theme?ref=badge_large)
